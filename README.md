@@ -1,6 +1,9 @@
 # js-sql-model-builder
 Utilities for building models (classes/types representing the database) with node.js
 
+# why?
+Everytime i wanted to create a simple project using sqlite, i had to write the same classes again and again for each table in my database. This is a way to avoid this 👍.
+
 # example
 Here is the example in [example.js](./example.js):
 ```js
